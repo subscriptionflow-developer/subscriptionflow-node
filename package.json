@@ -1,26 +1,25 @@
 {
   "name": "subscriptionflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for integrating with SubscriptionFlow.",
-  "keywords":[
+  "keywords": [
     "payments",
     "billing",
     "subscription",
     "SubscriptionFlow"
- ],
+  ],
   "main": "lib/SubscriptionFlow.js",
   "author": "SubscriptionFlow Developer",
-  "directories":{
-    "lib":"./lib"
+  "directories": {
+    "lib": "./lib"
   },
-
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.0",
     "dotenv": "^10.0.0"
   },
-  "bugs":{
-    "url":"http://support.subscriptionflow.com.com",
-    "email":"support@subscriptionflow.com"
- }
+  "bugs": {
+    "url": "http://support.subscriptionflow.com.com",
+    "email": "support@subscriptionflow.com"
+  }
 }
